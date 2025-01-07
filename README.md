@@ -1,15 +1,16 @@
 # Missionaries-and-Cannibals
-# Missionaries and Cannibals Problem Solver
 
-This Python program solves the Missionaries and Cannibals problem using the Breadth-First Search (BFS) algorithm. The challenge is to ensure that missionaries are never outnumbered by cannibals on either side of the river.
+# 🚣‍♂️ Missionaries and Cannibals Problem Solver
 
-## Features
+This Python program solves the classic **Missionaries and Cannibals** problem using the Breadth-First Search (BFS) algorithm. The goal is to safely transport three missionaries and three cannibals across a river.
 
-- Uses BFS algorithm
-- Ensures the safety of all missionaries and cannibals
-- Provides a step-by-step solution
+## 🌟 Features
 
-## Installation
+- 🧩 Uses BFS algorithm
+- 🔍 Ensures the safety of all missionaries and cannibals
+- 📜 Provides a step-by-step solution
+
+## 🚀 Installation
 
 1. Clone the repository:
     ```bash
@@ -20,7 +21,7 @@ This Python program solves the Missionaries and Cannibals problem using the Brea
     cd missionaries-and-cannibals
     ```
 
-## Usage
+## 🛠️ Usage
 
 Run the program:
 ```bash
